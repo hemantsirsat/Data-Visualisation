@@ -1,0 +1,1 @@
+EDA on online shopping trend [dataset](https://www.kaggle.com/datasets/jacksondivakarr/online-shopping-dataset)
